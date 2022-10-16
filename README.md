@@ -5,7 +5,7 @@ Here you will find:
 add funny edits to images and animated GIFs.
 - [A Minecraft mod](https://github.com/ShaksterNano/Entranced) that adds enchantments.
 - [A 2D sidescroller game](https://github.com/ShaksterNano/NEA-Sidescroller-Game), my A-Level course project.
-- [A few animated greeting cards](https://github.com/ShaksterNano/Animated-Cards) as early programming practices.
+- [A few animated greeting cards](https://github.com/ShaksterNano/Animated-Cards), my early programming practices.
 
 I've also contributed to [a Minecraft mod](https://github.com/fox-lol/cats-plus) that adds cat related features.
 

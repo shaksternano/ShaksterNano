@@ -1,4 +1,4 @@
-I am a second-year undergraduate student studying Computer Science at King's College London.
+I am a third-year undergraduate student studying Computer Science at King's College London.
 
 Here you will find:
 - [A Discord bot](https://github.com/ShaksterNano/Media-Manipulator-Discord-Bot) that enables the user to
